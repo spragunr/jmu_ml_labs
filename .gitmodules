@@ -1,0 +1,24 @@
+[submodule "jmu_ml_bias_variance_lab"]
+	path = jmu_ml_bias_variance_lab
+	url = https://github.com/spragunr/jmu_ml_bias_variance_lab
+[submodule "jmu_ml_dimensionality_lab"]
+	path = jmu_ml_dimensionality_lab
+	url = https://github.com/spragunr/jmu_ml_dimensionality_lab
+[submodule "jmu_ml_numpy_practice"]
+	path = jmu_ml_numpy_practice
+	url = https://github.com/spragunr/jmu_ml_numpy_practice
+[submodule "jmu_ml_knn_lab"]
+	path = jmu_ml_knn_lab
+	url = https://github.com/spragunr/jmu_ml_knn_lab
+[submodule "jmu_ml_model_selection"]
+	path = jmu_ml_model_selection
+	url = https://github.com/spragunr/jmu_ml_model_selection
+[submodule "jmu_ml_tf_intro"]
+	path = jmu_ml_tf_intro
+	url = https://github.com/spragunr/jmu_ml_tf_intro
+[submodule "jmu_ml_rnn_exercises"]
+	path = jmu_ml_rnn_exercises
+	url = https://github.com/spragunr/jmu_ml_rnn_exercises
+[submodule "jmu_ml_pca"]
+	path = jmu_ml_pca
+	url = https://github.com/spragunr/jmu_ml_pca
